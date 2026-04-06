@@ -28,8 +28,5 @@ env/
 .DS_Store
 Thumbs.db
 
-# Jupyter
-.ipynb_checkpoints/
-
 # Logs
 *.log
