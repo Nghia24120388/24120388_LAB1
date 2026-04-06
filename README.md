@@ -146,3 +146,5 @@ ner-api/
 ---
 
 ## Video demo
+
+https://github.com/user-attachments/assets/dc504d73-718d-4992-b617-c76d2742d094
